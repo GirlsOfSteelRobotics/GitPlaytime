@@ -1,4 +1,10 @@
 *** put your name in a list below this line **
+<<<<<<< HEAD
 
 Arushi Bandi
 Isabella Salvi
+=======
+Isabella Salvi
+Ziya Xu
+jisue
+>>>>>>> branch 'master' of https://github.com/GirlsOfSteelRobotics/GitPlaytime
