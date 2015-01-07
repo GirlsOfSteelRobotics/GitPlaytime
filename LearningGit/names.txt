@@ -1,9 +1,11 @@
-//List of people
+*** put your name in a list below this line **
 Kriti Shah
 Annika Urban
-Arushi Bandi
 Sonia Appasamy
 SOPHIA Lee
+Arushi Bandi
+Isabella Salvi
+Isabella Salvi
 Ziya Xu
 Jisue Lee
 Sunny Lee
