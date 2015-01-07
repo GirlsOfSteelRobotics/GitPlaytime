@@ -1,7 +1,34 @@
+<<<<<<< HEAD
 *** put your name in a list below this line **
+=======
+Kriti Shah
+Annika Urban
+Isabella Salvi
+Arushi Bandi
+
+
+
+
+
+
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Sonia Appasamy
+SOPHIA Lee
+Ziya Xu
+>>>>>>> branch 'master' of https://github.com/GirlsOfSteelRobotics/GitPlaytime.git
 Arushi Bandi
 Isabella Salvi
 Isabella Salvi
 Ziya Xu
 jisue
+<<<<<<< HEAD
 
+=======
+Jisue Lee
+Sunny Lee
+>>>>>>> branch 'master' of https://github.com/GirlsOfSteelRobotics/GitPlaytime.git
