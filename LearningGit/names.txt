@@ -9,4 +9,4 @@ Isabella Salvi
 Ziya Xu
 Jisue Lee
 Sunny Lee
-Thomas Pope (but I think I cheated by editing right from the browser?)
+Thomas Pope (edited correctly from Eclipse)
